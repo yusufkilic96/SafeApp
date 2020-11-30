@@ -2,7 +2,7 @@
     <string name="app_name">SafeApp</string>
 
     <string name="kws_caption">To start demonstration say \"hello world\".</string>
-    <string name="menu_caption">Say \"digits\", \"forecast\" or \"phones\" to choose the grammar, language model or phonetic decoder example.</string>
+    <string name="menu_caption">Say who you want to call.</string>
     <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
     <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
     <string name="phone_caption">To try phonetic recognition say anything.</string>
