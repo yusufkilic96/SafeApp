@@ -90,7 +90,7 @@ public class VoiceActivity extends Activity implements RecognitionListener {
         recyclerView = findViewById(R.id.recyclerView);
 
         String[] names = {"mom", "dad", "brother"};
-        String[] numbers = {"05394961807", "05123123123123", "05123123123123"};
+        String[] numbers = {"100", "05123123123123", "05123123123123"};
 
         MyAdapter myAdapter = new MyAdapter(this, names, numbers );
 
@@ -130,7 +130,7 @@ public class VoiceActivity extends Activity implements RecognitionListener {
             switchSearch(MENU_SEARCH);
         else if (text.equals(CALL_MOM_SEARCH)) {
             switchSearch(CALL_MOM_SEARCH);
-            tel_number="05394961807";
+            tel_number="100";
             onCall();
         }
         else if (text.equals(CALL_DAD_SEARCH)) {
