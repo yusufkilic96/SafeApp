@@ -1,11 +1,11 @@
 # SafeApp
 
-This is an application doing continuous voice recognition as a background service
+This is an application doing continuous voice recognition as a background service.
 
 
 ## Authentication
 
-You can sign up to application and log in
+You can sign up to application and log in.
 
 <img src="images/Screenshot_20201130-121442.png" width=200>
 
